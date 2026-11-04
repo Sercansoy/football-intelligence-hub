@@ -4,6 +4,7 @@ An AI-assisted football news digest bot. Every six hours it collects men's footb
 
 > The reliability score is computed in code from source quality and cross-source corroboration. The LLM only classifies; it is never asked "is this true?".
 
+![Discord digest example](docs/discord-digest.png)
 ## Features
 
 - Collects headlines from BBC Sport, Sky Sports and Google News RSS searches (one search per league)
